@@ -3,6 +3,9 @@
 # Get-PuttyKeys.ps1
 Dumps saved Putty Sessions/Keys/Passwords
 
+# Invoke-DefenderTools.ps1
+Several functions to interact with Windows Defender for post-exploitation.
+
 # Invoke-Execute.ps1 
 Execute payloads on a target system using a number of different techniques. Each technique includes a Mitre ATT&CK Reference.
 
