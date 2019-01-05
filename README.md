@@ -12,6 +12,9 @@ Execute payloads on a target system using a number of different techniques. Each
 # Invoke-Sysinfo.ps1
 Gathers some basic information about a system
 
+# New-LNK.ps1
+Generates an LNK file in current users' StartUp directory.
+
 # systemd.sh
 Installs a local systemd timer service which spawns a netcat reverse shell at a specified timer interval.
 
