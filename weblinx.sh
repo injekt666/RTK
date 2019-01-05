@@ -12,7 +12,7 @@ CYAN='\033[0;36m'
 NC='\033[0m'
 
 if [[ $1 == "" ]]; then
-    echo "Description: Parses all links from a tartet URLs source code.";
+    echo "Description: Parses all links from a target URLs source code.";
     echo "Usage: ./weblinx.sh http://site";
     exit 1;
 fi
