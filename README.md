@@ -28,6 +28,6 @@ Enumerate valid user accounts with RPCCLIENT
 Enumerate files that might be hosted via a TFTPD service
 
 # weblinx.sh
-Parses all links from a tartet URLs source code.
+Parses all links from a target URLs source code.
 
 and other miscellaneous tools
